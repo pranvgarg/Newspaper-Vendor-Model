@@ -1,0 +1,2 @@
+# Newspaper Vendor Model
+ 
